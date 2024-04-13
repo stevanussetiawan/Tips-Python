@@ -1,4 +1,4 @@
-## Zen of Python**
+## Zen of Python
 
 - Beautiful is better than ugly.
 - Explicit is better than implicit.
